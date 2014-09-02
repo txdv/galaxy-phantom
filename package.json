@@ -13,6 +13,6 @@
   "dependencies" : {
     "galaxy" : ">= 0.1.7",
     "galaxy-augment" : ">= 0.1.0",
-    "streamline-phantom" : >= 0.1.0"
+    "streamline-phantom" : ">= 0.1.0"
   }
 }
