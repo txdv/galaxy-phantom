@@ -1,7 +1,7 @@
 {
   "name" : "galaxy-phantom",
   "description" : "A phantom wrapper for galaxy.",
-  "version" : "0.1.0",
+  "version" : "0.1.1",
   "author" : "Andrius Bentkus <andrius.bentkus@gmail.com>",
   "repository" : {
     "type" : "git",
@@ -13,6 +13,7 @@
   "dependencies" : {
     "galaxy" : ">= 0.1.7",
     "galaxy-augment" : ">= 0.1.0",
+    "phantom" : ">= 0.1.0",
     "streamline-phantom" : ">= 0.1.0"
   }
 }
