@@ -1,0 +1,18 @@
+{
+  "name" : "galaxy-phantom",
+  "description" : "A phantom wrapper for galaxy.",
+  "version" : "0.1.0",
+  "author" : "Andrius Bentkus <andrius.bentkus@gmail.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/txdv/galaxy-phantom"
+  },
+  "engines" : ["node >= 0.10"],
+  "main" : "main",
+  "files" : [ "main.js" ],
+  "dependencies" : {
+    "galaxy" : ">= 0.1.7",
+    "galaxy-augment" : ">= 0.1.0",
+    "streamline-phantom" : >= 0.1.0"
+  }
+}
